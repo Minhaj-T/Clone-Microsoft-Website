@@ -1,0 +1,121 @@
+.the-nav-items{
+    color: antiquewhite;
+
+}
+.nav-item{
+    font-size: 13px;
+    color: white;
+
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    cursor: pointer;
+    padding-top: 14px;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+.btn-secondary {
+    color: black;
+    background-color:transparent;
+    border-color:transparent;
+}
+.btn-secondary:focus {
+    color: black;
+    background-color:transparent;
+    border-color: transparent;
+    box-shadow: none;
+    cursor: pointer;
+}
+.btn-secondary:focus:hover {
+    color: rgb(0, 0, 0);
+    background-color:transparent;
+    border-color:transparent;
+    box-shadow: none;
+}
+.the-sec-nd{
+    padding-top: 4rem;
+
+}
+
+.lap-sec{
+    padding-top: 4rem;
+    
+}
+.home-two{
+    
+    padding-top: 4rem;
+
+}
+.last-last-nav{
+    padding-top: 4rem;
+
+
+
+}
+.follow{
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+}
+.follow *{
+    margin-left: .2rem
+
+}
+.last-sec-last{
+    background: #f2f2f2;
+    height: 350px;
+    width: 100%;
+    margin-top: 3rem;
+
+}
+.sty{
+    font-size: .7rem;
+    padding-top: .6rem;
+    cursor: pointer;
+
+}
+.psb{
+    overflow: hidden;
+}
+.sty1{
+    float: left;
+    font-size: 0.6rem;
+    padding-top: 0.6rem;
+    padding-left: 28px;
+    padding-top: 1rem;
+    cursor: pointer;
+}
+.sty:hover{
+    text-decoration: underline;
+}
+.sty1:hover{
+    text-decoration: underline;
+}
+.drp-btn{
+    padding-top: 1rem;
+    font-size: .8rem;
+    cursor: pointer;
+}
+
+.drp-btn:hover{
+    text-decoration: underline;
+
+}
+.hei{
+    height: 30vw;
+
+}
+.heii{
+    height: 14vw;
+
+}
+.underline{
+    cursor: pointer;
+
+}
+.underline:hover{
+    text-decoration: underline;
+}
