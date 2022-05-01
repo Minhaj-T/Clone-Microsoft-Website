@@ -1,3 +1,3 @@
 # Microsoft-project
 
-https://minhaj48.github.io/Microsoft-project/
+https://minhaj-t.github.io/Clone-Microsoft-Website/
